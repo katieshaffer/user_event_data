@@ -1,2 +1,2 @@
-Raw data can be found in the `datasets` folder.
+Raw data can be found in the `dataset` folder.
 
